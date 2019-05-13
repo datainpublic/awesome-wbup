@@ -9,6 +9,6 @@ We would love to add more awesome WBUP examples, prototypes and tools. Please do
 *This list is initially organized by issues of public concern.* 
 
 - [***Climate***](#climate-wbup)
-  - [Killing Time](https://datainpublic.github.io/killing-time/): Juxtaposes our immediate internal responses about two future datapoints.
+  - [Killing Time](https://datainpublic.github.io/killing-time/): Juxtaposes our immediate internal responses about two types of approaching events.
 - [***Artificial Intelligence***](#artificial-intelligence-wbup)
 - [***News***](#news-wbup)
