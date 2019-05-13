@@ -1,4 +1,4 @@
-# Awesome Web Based Urban Projections (WBUP) [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Web-Based Urban Projections `[WBUP]` [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Each link below should be a functional and immediately projectable URL. What makes an awesome WBUP, for starters it should be considerate of projection as a medium. For example: keep in mind that this is not simply a web page. The WBUP has to live in a complex universe of potential public surfaces. Consider aspects like contrast, readability, glanceability and responsiveness.
 
