@@ -19,3 +19,5 @@ We would love to add more awesome WBUP examples, prototypes and tools. Please do
 ## *News*
 
 - [News, Interrupted](https://news-interrupted.datainpublic.space/): [details](https://datainpublic.space/map/news-interrupted/).
+
+- [Norway on the internet](https://ashleykang.dev/kt-workshop-template/): Guess which country was the first non-English speaking country on the internet?
