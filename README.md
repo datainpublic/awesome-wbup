@@ -19,3 +19,5 @@ We would love to add more awesome WBUP examples, prototypes and tools. Please do
 ## *News*
 
 - [News, Interrupted](https://news-interrupted.datainpublic.space/): [details](https://datainpublic.space/map/news-interrupted/).
+
+- [Asteroid Day](https://github.com/stefaniekoseff/kt-workshop-template/blob/master/local.js)
