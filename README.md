@@ -19,3 +19,6 @@ We would love to add more awesome WBUP examples, prototypes and tools. Please do
 ## *News*
 
 - [News, Interrupted](https://news-interrupted.datainpublic.space/): [details](https://datainpublic.space/map/news-interrupted/).
+
+
+- [Big Apple, Solar Time](https://http://kaushikreddy.co/kt-workshop-template/index.html)
