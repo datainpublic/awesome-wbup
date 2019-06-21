@@ -19,3 +19,5 @@ We would love to add more awesome WBUP examples, prototypes and tools. Please do
 ## *News*
 
 - [News, Interrupted](https://news-interrupted.datainpublic.space/): [details](https://datainpublic.space/map/news-interrupted/).
+
+- [IN THIS ECONOMY?](https://xuelongmu.github.io/kt-workshop-template/)
